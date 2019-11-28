@@ -1,5 +1,5 @@
-# Graphical_Overmap
-Cataclysm DDA Graphical_Overmap mod
+# Graphical Overmap
+Cataclysm DDA Graphical_Overmap mod <br>
 Gives the overmap a graphical overhaul
 
 Last updated for build #9934
@@ -18,5 +18,5 @@ Last updated for build #9934
   - MINOR: Some locations are hidden in forests. However, some of these have the symbol and colour of a forest, while their name reveals what they really are (eg. "cabin_aban1"). Not sure whether to make them look like forests or as their name suggests. So far have made them the symbol of their name, but green.
   - MINOR: I know it's possible to change dirt roads, although getting the angles right confused me so I left it for now.
 	
-Happy cartography,
+Happy cartography, <br>
 @Larwick
