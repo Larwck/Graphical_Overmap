@@ -6,7 +6,7 @@ Last updated for build #9934
 
 ### Installation:
   - Download the ZIP.
-  - Extract to your Cataclysm game folder. *Keep in mind this will overwrite your 'fonts.json' file so If you have previously made changes to it you will need to back them up first and modify it manually.*
+  - Extract to your Cataclysm game folder. *Keep in mind this will overwrite your 'config/fonts.json' file so If you have previously made changes to it you will need to back them up first and modify it manually.*
   - In graphics options change the overmap font width to "16" then restart.
 	
 ### Optional:
