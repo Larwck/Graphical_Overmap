@@ -2,15 +2,15 @@
 Cataclysm DDA Graphical_Overmap mod <br>
 Gives the overmap a graphical overhaul
 
-Last updated for build #9934
+Last updated for build #9934 30/11/19
 
 ### Installation:
   - Download the ZIP.
   - Extract to your Cataclysm game folder. *Keep in mind this will overwrite your 'config/fonts.json' file so If you have previously made changes to it you will need to back them up first and modify it manually.*
-  - In graphics options make sure the overmap font width/height/size are all set to **16** then restart.
+  - In graphics options make sure the overmap font width/height/size are all set to "**16**" then restart.
 	
 ### Optional:
-  - I would advise disabling the 5x5 location map in the sidebar, as it becomes unreadable by using this mod.
+  - I would advise disabling the 5x5 location map in the sidebar, as it becomes unreadable by using this mod. Press } to access sidebar options and choose either 'labels' (using the Location Alt panel instead of Location) or 'labels-narrow'.
   - For a more muted palette to increase readability move 'base_colors.json' from data/mods/Graphical_Overmap into your /config folder and overwrite. The crossroads with manhole (road_nesw_manhole) actually uses the dark_gray (60,60,60) from this palette, so may look slightly off if you are using a different dark_gray.
 	
 ### Issues:
