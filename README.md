@@ -2,7 +2,7 @@
 Cataclysm DDA Graphical_Overmap mod <br>
 Gives the overmap a graphical overhaul
 
-Last updated for build #9934 30/11/19
+Last updated for build #9934 2019-12-01
 
 ### Installation:
   - Download the ZIP.
