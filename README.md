@@ -5,6 +5,7 @@ Gives the overmap a graphical overhaul
 Last updated for build #9934 2019-12-01
 
 ### Installation:
+  - Make sure your build is prior to #9942 (when this mod was merged). If later, check the readme in the mod's folder for installation instructions - following these won't work.
   - Download the ZIP.
   - Extract to your Cataclysm game folder. *Keep in mind this will overwrite your 'config/fonts.json' file so If you have previously made changes to it you will need to back them up first and modify it manually.*
   - In graphics options make sure the overmap font width/height/size are all set to "**16**" then restart.
