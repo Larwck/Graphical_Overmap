@@ -5,7 +5,7 @@ Gives the overmap a graphical overhaul
 Last updated 2020-1-3
 
 ### Installation:
-  - Make sure your build is prior to #9942 (when this mod was merged). If later, check the readme in the mod's folder for installation instructions.
+  - Make sure your build is prior to #9942 (when this mod was merged). If later, make sure to remove 'fonts.json' from data/mods/graphical_overmap.
   - Download the ZIP.
   - Extract to your Cataclysm game folder. *Keep in mind this will overwrite your 'config/fonts.json' file so If you have previously made changes to it you will need to back them up first and modify it manually.*
   - In graphics options make sure the overmap font width/height/size are all set to "**16**" then restart.
@@ -15,6 +15,7 @@ Last updated 2020-1-3
   - For a more muted palette to increase readability move 'base_colors.json' from data/mods/Graphical_Overmap into your /config folder and overwrite. The crossroads with manhole (road_nesw_manhole) actually uses the dark_gray (60,60,60) from this palette, so may look slightly off if you are using a different dark_gray.
 	
 ### Issues:
+  - MAJOR: Having to go through the installation every update isn't ideal.
   - MAJOR: Mod doesn't work for people using cyrillic script or diacritic glyphs.
   - MAJOR: You may have problems (usually color based) when running this on anything but Windows.
   - MINOR: The arbitrary symbol I have used to represent each icon will appear at the top of the sidebar on the overmap screen when the tile is selected.
