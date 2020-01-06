@@ -5,6 +5,7 @@ Gives the overmap a graphical overhaul
 Last updated 2020-1-6
 
 ### Installation:
+  - Backup your files.
   - *If your build is between #9942 and #10116 make sure to remove 'fonts.json' from data/mods/graphical_overmap.*
   - Download the ZIP.
   - Extract to your Cataclysm game folder. *Keep in mind this will overwrite your 'config/fonts.json' file so If you have previously made changes to it you will need to back them up first and modify it manually.*
