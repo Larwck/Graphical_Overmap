@@ -16,7 +16,7 @@ Last updated 2020-1-6
   - For a more muted palette to increase readability move 'base_colors.json' from data/mods/Graphical_Overmap into your /config folder and overwrite. The crossroads with manhole (road_nesw_manhole) actually uses the dark_gray (60,60,60) from this palette, so may look slightly off if you are using a different dark_gray.
 	
 ### Issues:
-  - **MAJOR: The overmap description box is completely black due to setting a square overmap font size, unfortunately there's nothing I can do about this until it's fixed.**
+  - **MAJOR: The overmap description box is completely black due to the overmap font size being different to the standard font, unfortunately there's nothing I can do about this until it's fixed.**
   - MAJOR: Having to go through the installation every update isn't ideal.
   - MAJOR: Mod doesn't work for people using cyrillic script or diacritic glyphs.
   - MAJOR: You may have problems (usually color based) when running this on anything but Windows.
